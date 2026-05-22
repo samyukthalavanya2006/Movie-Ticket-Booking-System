@@ -101,10 +101,3 @@ This project was created as a mini-project to demonstrate Python programming and
 <img width="997" height="256" alt="image" src="https://github.com/user-attachments/assets/4cd28a38-61c0-4333-a303-99ff1e8a5c98" />
 <img width="1081" height="357" alt="image" src="https://github.com/user-attachments/assets/00809fa7-c5c6-4923-a6c8-d8f9766e61fc" />
 
-
-
-
-
-
-# Author
-Samyuktha Lavanya
